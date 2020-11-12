@@ -1,0 +1,1011 @@
+BODY {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #ebf5ff; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT: 12px/18px "����"; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+OL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+SELECT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+A:link {
+	COLOR: #252525; TEXT-DECORATION: none
+}
+A:srykzsblmised {
+	COLOR: #252525; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #004681; TEXT-DECORATION: underline
+}
+IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+.clear {
+	CLEAR: both
+}
+#wrapper {
+	BACKGROUND-COLOR: #ffffff; MARGIN: 0px auto; WIDTH: 960px
+}
+#topbar {
+	LINE-HEIGHT: 30px; BACKGROUND: url(topbarbg.gif) repeat-x 0px 0px; HEIGHT: 30px
+}
+#topbar-left {
+	PADDING-LEFT: 25px; FLOAT: left
+}
+#topbar-right {
+	PADDING-RIGHT: 20px; FLOAT: right
+}
+#topbar-right SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+#topbar-left SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+#topbar-left SPAN A {
+	COLOR: #104ca6; TEXT-DECORATION: none
+}
+#header {
+	BACKGROUND: url(headbg.jpg) no-repeat 0px 0px; HEIGHT: 130px
+}
+#logo {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 80px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 27px
+}
+#logo IMG {
+	WIDTH: 66px; HEIGHT: 73px
+}
+#name {
+	LINE-HEIGHT: 130px; FLOAT: left; FONT-SIZE: 24px; FONT-WEIGHT: bold
+}
+#nav {
+	BACKGROUND: url(navbg.jpg) repeat-x 0px 0px; HEIGHT: 32px
+}
+#nav UL {
+	MARGIN: 0px auto; WIDTH: 640px
+}
+#nav LI {
+	LINE-HEIGHT: 32px; PADDING-RIGHT: 16px; FLOAT: left; FONT-SIZE: 14px
+}
+#nav LI A {
+	COLOR: #ffffff; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.flashBox {
+	POSITION: relative; MARGIN: 10px 5px 0px; WIDTH: 660px; DISPLAY: inline; FLOAT: left; HEIGHT: 259px
+}
+.flashBox .bigPic {
+	WIDTH: 538px; DISPLAY: block; FLOAT: left; HEIGHT: 259px; OVERFLOW: hidden
+}
+.flashBox .bigPic IMG {
+	WIDTH: 538px; DISPLAY: block; FLOAT: left; HEIGHT: 259px; OVERFLOW: hidden
+}
+.flashBox UL {
+	WIDTH: 120px; FLOAT: right; HEIGHT: 259px; OVERFLOW: hidden
+}
+.flashBox UL LI {
+	WIDTH: 120px; DISPLAY: block; FLOAT: left; HEIGHT: 64px; OVERFLOW: hidden
+}
+.flashBox UL LI IMG {
+	WIDTH: 120px; DISPLAY: block; FLOAT: left; HEIGHT: 64px; OVERFLOW: hidden
+}
+.flashBox UL LI {
+	POSITION: relative; MARGIN-BOTTOM: 1px
+}
+.flashBox UL LI A {
+	Z-INDEX: 10; POSITION: absolute; TEXT-INDENT: -9999px; WIDTH: 120px; DISPLAY: block; HEIGHT: 64px; OVERFLOW: hidden; TOP: 0px; LEFT: 0px
+}
+.flashBox UL LI A:hover {
+	BORDER-BOTTOM: #fcd605 2px solid; BORDER-LEFT: #fcd605 2px solid; WIDTH: 116px; HEIGHT: 60px; BORDER-TOP: #fcd605 2px solid; BORDER-RIGHT: #fcd605 2px solid
+}
+.flashBox UL LI A.currA {
+	BORDER-BOTTOM: #fcd605 2px solid; BORDER-LEFT: #fcd605 2px solid; WIDTH: 116px; HEIGHT: 60px; BORDER-TOP: #fcd605 2px solid; BORDER-RIGHT: #fcd605 2px solid
+}
+.flashBox UL LI IMG {
+	Z-INDEX: 1; POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+#content-right-quicksearch {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 7px !important; MARGIN: 10px 5px 0px; PADDING-LEFT: 0px !important; WIDTH: 278px; PADDING-RIGHT: 0px !important; DISPLAY: inline; BACKGROUND: url(search-btn.jpg) #f9f9fb no-repeat 30px 0px; FLOAT: right; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 7px !important
+}
+#content-right-quicksearch .select {
+	MARGIN: 40px 0px 0px 40px; WIDTH: 155px
+}
+#content-right-quicksearch .quicksearch {
+	PADDING-BOTTOM: 1px; MARGIN: 10px 0px 0px 40px; PADDING-LEFT: 1px; WIDTH: 150px; PADDING-RIGHT: 1px; PADDING-TOP: 1px
+}
+#content-right-quicksearch .Appointment {
+	MARGIN: 10px 0px 0px 36px
+}
+#content-right-quicksearch .search {
+	VERTICAL-ALIGN: middle
+}
+#content-right-Banner {
+	MARGIN: 6px 5px 0px; DISPLAY: inline; FLOAT: right
+}
+#content-right-notice {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 30px; MARGIN: 10px 5px 0px; WIDTH: 278px; DISPLAY: inline; BACKGROUND: url(titbg2.gif) repeat-x 0px 0px; FLOAT: right; CLEAR: right; OVERFLOW: hidden; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#content-right-Successful {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 30px; MARGIN: 10px 5px 0px; WIDTH: 278px; DISPLAY: inline; BACKGROUND: url(titbg2.gif) repeat-x 0px 0px; FLOAT: right; CLEAR: right; OVERFLOW: hidden; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#content-right-help {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 30px; MARGIN: 10px 5px 0px; WIDTH: 278px; DISPLAY: inline; BACKGROUND: url(titbg2.gif) repeat-x 0px 0px; FLOAT: right; CLEAR: right; OVERFLOW: hidden; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#Disease-right-Zuozhen {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 30px; MARGIN: 10px 5px 0px; WIDTH: 278px; DISPLAY: inline; BACKGROUND: url(titbg2.gif) repeat-x 0px 0px; FLOAT: right; CLEAR: right; OVERFLOW: hidden; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#Disease-right-Navigation {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 30px; MARGIN: 10px 5px 0px; WIDTH: 278px; DISPLAY: inline; BACKGROUND: url(titbg2.gif) repeat-x 0px 0px; FLOAT: right; CLEAR: right; OVERFLOW: hidden; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#Disease-right-Label {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 30px; MARGIN: 10px 5px 0px; WIDTH: 278px; DISPLAY: inline; BACKGROUND: url(titbg2.gif) repeat-x 0px 0px; FLOAT: right; CLEAR: right; OVERFLOW: hidden; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#content-right-notice H2 {
+	BACKGROUND: url(ico-notice.gif) no-repeat 5px 5px
+}
+#content-right-Successful H2 {
+	BACKGROUND: url(ico-succ.gif) no-repeat 5px 5px
+}
+#content-right-help H2 {
+	BACKGROUND: url(ico-help.gif) no-repeat 5px 5px
+}
+#content-right-notice H2 {
+	PADDING-LEFT: 30px; COLOR: #004681; FONT-SIZE: 14px
+}
+#content-right-Successful H2 {
+	PADDING-LEFT: 30px; COLOR: #004681; FONT-SIZE: 14px
+}
+#content-right-help H2 {
+	PADDING-LEFT: 30px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Disease-right-Zuozhen H2 {
+	PADDING-LEFT: 30px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Disease-right-Navigation H2 {
+	PADDING-LEFT: 30px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Disease-right-Label H2 {
+	PADDING-LEFT: 30px; COLOR: #004681; FONT-SIZE: 14px
+}
+#content-right-notice UL {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #f9f9fb; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 100%; OVERFLOW: hidden; PADDING-TOP: 6px
+}
+#content-right-Successful UL {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #f9f9fb; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 100%; OVERFLOW: hidden; PADDING-TOP: 6px
+}
+#content-right-help UL {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #f9f9fb; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 100%; OVERFLOW: hidden; PADDING-TOP: 6px
+}
+#content-right-notice LI {
+	PADDING-LEFT: 24px; BACKGROUND: url(ico1.jpg) no-repeat 6px 6px
+}
+#content-right-Successful LI {
+	PADDING-LEFT: 24px; BACKGROUND: url(ico1.jpg) no-repeat 6px 6px
+}
+#content-right-help LI {
+	PADDING-LEFT: 24px; BACKGROUND: url(ico1.jpg) no-repeat 6px 6px
+}
+#content-right-Successful UL LI SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; PADDING-TOP: 0px
+}
+#content-professor {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#content-Navigation {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#content-Link {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#Disease-Intro {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#Disease-Zuozhen {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#Zuozhen-Intro {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#Zuozhen-record {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#Departments-content {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#Noticelist-content {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#DepartmentMap {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 10px 5px 0px; WIDTH: 658px; DISPLAY: inline; BACKGROUND: url(titbg1.jpg) repeat-x 0px 0px; FLOAT: left; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#content-professor H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#content-Navigation H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#content-Link H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Disease-Intro H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Disease-Zuozhen H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Zuozhen-Intro H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Zuozhen-record H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Departments-content H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Noticelist-content H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#DepartmentMap H1 {
+	BORDER-BOTTOM: #95c7ea 1px solid; LINE-HEIGHT: 30px; PADDING-LEFT: 30px; BACKGROUND: url(titbg.jpg) no-repeat 0px 0px; COLOR: #004681; FONT-SIZE: 14px
+}
+#content-Navigation H1 SPAN {
+	BORDER-BOTTOM: #95c7ea 1px solid; PADDING-RIGHT: 20px; FLOAT: right; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+#content-Navigation-conetnt {
+	PADDING-BOTTOM: 1px
+}
+#content-Navigation-conetnt-Internal {
+	BACKGROUND-COLOR: #f8f8f8
+}
+#content-Navigation-conetnt-Chinese {
+	BACKGROUND-COLOR: #f8f8f8
+}
+#content-Navigation-conetnt-Other {
+	BACKGROUND-COLOR: #f8f8f8
+}
+#content-Navigation-conetnt-Internal UL {
+	WIDTH: 570px; DISPLAY: block; FLOAT: right
+}
+#content-Navigation-conetnt-Surgery UL {
+	WIDTH: 570px; DISPLAY: block; FLOAT: right
+}
+#content-Navigation-conetnt-Chinese UL {
+	WIDTH: 570px; DISPLAY: block; FLOAT: right
+}
+#content-Navigation-conetnt-Gynecology UL {
+	WIDTH: 570px; DISPLAY: block; FLOAT: right
+}
+#content-Navigation-conetnt-Other UL {
+	WIDTH: 570px; DISPLAY: block; FLOAT: right
+}
+#content-Navigation-conetnt-Internal H2 {
+	LINE-HEIGHT: 32px; PADDING-LEFT: 24px; WIDTH: 50px; DISPLAY: block; BACKGROUND: url(/icon_news.jpg) no-repeat 5px 7px; FLOAT: left; COLOR: #004681; FONT-SIZE: 13px
+}
+#content-Navigation-conetnt-Surgery H2 {
+	LINE-HEIGHT: 32px; PADDING-LEFT: 24px; WIDTH: 50px; DISPLAY: block; BACKGROUND: url(icon_news.jpg) no-repeat 5px 7px; FLOAT: left; COLOR: #004681; FONT-SIZE: 13px
+}
+#content-Navigation-conetnt-Chinese H2 {
+	LINE-HEIGHT: 32px; PADDING-LEFT: 24px; WIDTH: 50px; DISPLAY: block; BACKGROUND: url(icon_news.jpg) no-repeat 5px 7px; FLOAT: left; COLOR: #004681; FONT-SIZE: 13px
+}
+#content-Navigation-conetnt-Gynecology H2 {
+	LINE-HEIGHT: 32px; PADDING-LEFT: 24px; WIDTH: 50px; DISPLAY: block; BACKGROUND: url(icon_news.jpg) no-repeat 5px 7px; FLOAT: left; COLOR: #004681; FONT-SIZE: 13px
+}
+#content-Navigation-conetnt-Other H2 {
+	LINE-HEIGHT: 32px; PADDING-LEFT: 24px; WIDTH: 50px; DISPLAY: block; BACKGROUND: url(icon_news.jpg) no-repeat 5px 7px; FLOAT: left; COLOR: #004681; FONT-SIZE: 13px
+}
+#content-Navigation-conetnt-Internal UL SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 0px
+}
+#content-Navigation-conetnt-Surgery UL SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 0px
+}
+#content-Navigation-conetnt-Chinese UL SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 0px
+}
+#content-Navigation-conetnt-Gynecology UL SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 0px
+}
+#content-Navigation-conetnt-Other UL SPAN {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 0px
+}
+#content-Link-content UL {
+	PADDING-BOTTOM: 11px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+#content-Link-content LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; WIDTH: 90px; FLOAT: left; OVERFLOW: hidden
+}
+#content-Link H1 SPAN {
+	BORDER-BOTTOM: #95c7ea 1px solid; PADDING-RIGHT: 20px; FLOAT: right; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.content-professor-f8f8f8 {
+	BACKGROUND-COLOR: #f8f8f8; OVERFLOW: hidden
+}
+.content-professor-ffffff {
+	BACKGROUND-COLOR: #ffffff
+}
+.content-professor-srykzsblmiss {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 6px; WIDTH: 317px; PADDING-RIGHT: 6px; FLOAT: left; PADDING-TOP: 4px
+}
+.content-professor-srykzsblmiss IMG {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 2px; MARGIN-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FLOAT: left; BORDER-TOP: #cccccc 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 2px
+}
+.Disease-professor-srykzsblmiss IMG {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 2px; MARGIN-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FLOAT: left; BORDER-TOP: #cccccc 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 2px
+}
+.content-professor-srykzsblmiss P {
+	LINE-HEIGHT: 30px; COLOR: #004681
+}
+.Disease-professor-srykzsblmiss P {
+	LINE-HEIGHT: 30px; COLOR: #004681
+}
+.content-professor-srykzsblmiss P A {
+	COLOR: #004681
+}
+.Disease-professor-srykzsblmiss P A:srykzsblmised {
+	COLOR: #004681
+}
+.content-professor-srykzsblmiss STRONG {
+	PADDING-RIGHT: 6px; FONT-SIZE: 13px
+}
+.Disease-professor-srykzsblmiss STRONG {
+	PADDING-RIGHT: 6px; FONT-SIZE: 13px
+}
+.content-professor-srykzsblmiss SPAN {
+	PADDING-RIGHT: 6px; FONT-WEIGHT: normal
+}
+.Disease-professor-srykzsblmiss SPAN {
+	PADDING-RIGHT: 6px; FONT-WEIGHT: normal
+}
+#footer {
+	TEXT-ALIGN: center; MARGIN-TOP: 10px; BACKGROUND: url(footerbg.gif) repeat-x 0px 0px; HEIGHT: 71px; PADDING-TOP: 25px
+}
+#footer P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+#footer SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 0px
+}
+#Disease-location {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+#Disease-location P {
+	PADDING-LEFT: 24px; BACKGROUND: url(about_home_bg.gif) no-repeat 6px 3px
+}
+#Disease-location SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; PADDING-TOP: 0px
+}
+#Disease-search {
+	MARGIN: 4px 5px 0px; WIDTH: 660px; DISPLAY: inline; BACKGROUND: url(/disease-search.gif) no-repeat 0px 0px; FLOAT: left; HEIGHT: 43px
+}
+#Disease-search .dis-select {
+	MARGIN-TOP: 12px; WIDTH: 100px; FLOAT: left; MARGIN-LEFT: 70px; VERTICAL-ALIGN: middle
+}
+#Disease-search .dis-input {
+	MARGIN: 11px 5px 0px; FLOAT: left; VERTICAL-ALIGN: middle
+}
+#Disease-search UL {
+	LINE-HEIGHT: 43px; PADDING-RIGHT: 20px; FLOAT: right
+}
+#Disease-search SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; PADDING-TOP: 0px
+}
+#Disease-Intro {
+	WIDTH: 658px; MARGIN-BOTTOM: 10px
+}
+#Disease-Zuozhen {
+	WIDTH: 658px; MARGIN-BOTTOM: 10px
+}
+#Disease-Intro H2 {
+	TEXT-ALIGN: center; COLOR: #004681; FONT-SIZE: 14px; PADDING-TOP: 19px
+}
+#Disease-Zuozhen H2 {
+	TEXT-ALIGN: center; COLOR: #004681; FONT-SIZE: 14px; PADDING-TOP: 19px
+}
+#Disease-Intro P {
+	MARGIN: 0px auto; WIDTH: 580px; COLOR: #004681; FONT-SIZE: 14px
+}
+#Disease-Intro SPAN {
+	PADDING-BOTTOM: 25px; LINE-HEIGHT: 21px; TEXT-INDENT: 24px; MARGIN: 0px auto; WIDTH: 580px; DISPLAY: block
+}
+#Disease-Zuozhen SPAN {
+	PADDING-RIGHT: 20px; FLOAT: right; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.Disease-table {
+	BORDER-LEFT: #d7d7d5 1px solid; MARGIN: 8px auto; BORDER-TOP: #d7d7d5 1px solid
+}
+.Disease-table TH {
+	BORDER-BOTTOM: medium none; COLOR: #004681; BORDER-RIGHT: #d7d7d5 1px solid
+}
+.Disease-table TD {
+	BORDER-BOTTOM: #d7d7d5 1px solid; TEXT-ALIGN: center; BORDER-RIGHT: #d7d7d5 1px solid
+}
+.Disease-table-content TD {
+	BORDER-BOTTOM: #d7d7d5 1px solid; BORDER-LEFT: #d7d7d5 1px solid; BORDER-TOP: #d7d7d5 1px solid; BORDER-RIGHT: #d7d7d5 1px solid
+}
+.Disease-table STRONG {
+	COLOR: #004681
+}
+.Disease-table EM {
+	FONT-STYLE: normal; COLOR: #004681; FONT-SIZE: 14px
+}
+.Disease-table-week TD {
+	BORDER-RIGHT: #d7d7d5 1px solid
+}
+.Disease-table-ico TD {
+	HEIGHT: 33px
+}
+.Disease-table-pic TD {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#Disease-Appo {
+	TEXT-ALIGN: center; MARGIN: 0px 5px; WIDTH: 280px; FLOAT: right; HEIGHT: 47px
+}
+#Disease-right-Zuozhen H2 {
+	BACKGROUND: url(icon_6.gif) no-repeat 5px 5px
+}
+.Disease-professor-srykzsblmiss {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 13px
+}
+#Disease-right-Navigation H2 {
+	BACKGROUND: url(ico-help.gif) no-repeat 5px 5px
+}
+#Disease-right-Navigation UL {
+	MARGIN: 10px 0px
+}
+#Disease-right-Navigation LI {
+	LINE-HEIGHT: 32px; PADDING-LEFT: 20px; BACKGROUND: url(icon_news.jpg) no-repeat 3px 8px
+}
+#Disease-right-Navigation LI STRONG {
+	WIDTH: 40px; DISPLAY: block; FLOAT: left
+}
+#Disease-right-Navigation LI STRONG A {
+	COLOR: #004681
+}
+#Disease-right-Navigation LI STRONG A:srykzsblmised {
+	COLOR: #004681
+}
+#Disease-right-Navigation LI STRONG A:hover {
+	COLOR: #004681; TEXT-DECORATION: underline
+}
+#Disease-right-Navigation LI SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+#pagelist {
+	PADDING-BOTTOM: 6px; MARGIN: 4px auto; PADDING-LEFT: 0px; WIDTH: 300px; PADDING-RIGHT: 0px; HEIGHT: 20px; PADDING-TOP: 6px
+}
+#pagelist UL LI {
+	BORDER-BOTTOM: #5d9cdf 1px solid; BORDER-LEFT: #5d9cdf 1px solid; LINE-HEIGHT: 20px; MARGIN: 0px 2px; FLOAT: left; HEIGHT: 20px; BORDER-TOP: #5d9cdf 1px solid; BORDER-RIGHT: #5d9cdf 1px solid
+}
+#pagelist UL LI A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; DISPLAY: block; BACKGROUND: #e6f2fe; PADDING-TOP: 0px
+}
+.pageinfo {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; DISPLAY: block; BACKGROUND: #e6f2fe; PADDING-TOP: 0px
+}
+.current {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; DISPLAY: block; BACKGROUND: #a9d2ff; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+#Zuozhen-content {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; DISPLAY: block; HEIGHT: 100%; OVERFLOW: hidden; PADDING-TOP: 20px
+}
+#Zuozhen-content-time {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; DISPLAY: block; HEIGHT: 100%; OVERFLOW: hidden; PADDING-TOP: 20px
+}
+#Zuozhen-content IMG {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; WIDTH: 90px; PADDING-RIGHT: 3px; DISPLAY: block; FLOAT: left; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; PADDING-TOP: 3px
+}
+#Zuozhen-content H3 {
+	PADDING-LEFT: 20px; WIDTH: 500px; DISPLAY: block; FLOAT: left
+}
+#Zuozhen-Intro P {
+	PADDING-LEFT: 20px; WIDTH: 500px; DISPLAY: block; FLOAT: left
+}
+#Zuozhen-content H3 {
+	COLOR: #004681; FONT-SIZE: 14px
+}
+#Zuozhen-content P {
+	LINE-HEIGHT: 24px; FONT-SIZE: 14px
+}
+#Zuozhen-content P SPAN {
+	COLOR: #004681
+}
+#Zuozhen-record {
+	MARGIN: 10px 5px
+}
+#Zuozhen-record UL {
+	MARGIN: 5px
+}
+#Zuozhen-record LI {
+	LINE-HEIGHT: 21px; PADDING-LEFT: 20px; BACKGROUND: url(ico-record.gif) no-repeat 5px 5px
+}
+#Zuozhen-record LI SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+#Zuozhen-content-time H2 {
+	COLOR: #004681; FONT-SIZE: 14px
+}
+.Zuozhen-time-table {
+	BORDER-LEFT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid
+}
+.Zuozhen-time-table TD {
+	BORDER-BOTTOM: #cccccc 1px solid; TEXT-ALIGN: center; HEIGHT: 30px; COLOR: #004681; FONT-SIZE: 14px; BORDER-RIGHT: #cccccc 1px solid
+}
+.red-14-bold A {
+	COLOR: #ff0000; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.blue-14-bold A {
+	COLOR: #004681; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.blue-14-bold A:srykzsblmised {
+	COLOR: #004681; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+#Departments-content H2 {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; COLOR: #004681; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+#Departments-content H2 SPAN {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-SIZE: 14px; FONT-WEIGHT: normal; PADDING-TOP: 10px
+}
+#Departments-content P {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; TEXT-INDENT: 24px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; PADDING-TOP: 0px
+}
+#Departments-content SPAN {
+	LINE-HEIGHT: 28px; PADDING-RIGHT: 10px; FLOAT: right; FONT-SIZE: 12px
+}
+#Registered {
+	CURSOR: pointer
+}
+A.closeBtn {
+	WIDTH: 16px; DISPLAY: block; BACKGROUND: url(close.gif) no-repeat 0px 0px; FLOAT: right; HEIGHT: 16px
+}
+.blk {
+	POSITION: relative; WIDTH: 130px
+}
+.blk .main {
+	BORDER-BOTTOM: #cbdcdc 1px solid; POSITION: relative; BORDER-LEFT: #cbdcdc 1px solid; BACKGROUND: #fff; BORDER-TOP: #cbdcdc 1px solid; BORDER-RIGHT: #cbdcdc 1px solid
+}
+.blk .main H2 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 24px; COLOR: #333333; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.blk .main P {
+	BORDER-BOTTOM: #e5f0f2 1px dashed; TEXT-ALIGN: center; LINE-HEIGHT: 24px; FONT-SIZE: 12px
+}
+.blk .main UL {
+	MARGIN: 5px auto; ZOOM: 1; FONT-SIZE: 12px; OVERFLOW: hidden
+}
+.blk .main UL LI {
+	BORDER-BOTTOM: #e5f0f2 1px dashed; TEXT-ALIGN: center; LINE-HEIGHT: 24px; WIDTH: 130px; COLOR: #333333; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.blk .main UL LI A {
+	DISPLAY: block; COLOR: #333333
+}
+.blk .main UL LI A:hover {
+	TEXT-DECORATION: underline
+}
+#Noticelist-content DL {
+	MARGIN: 10px auto
+}
+#Noticelist-content DT {
+	LINE-HEIGHT: 30px; PADDING-LEFT: 28px; DISPLAY: block; BACKGROUND: url(icon_news.gif) no-repeat 10px 7px
+}
+#Noticelist-content DT SPAN {
+	PADDING-RIGHT: 20px; FLOAT: right
+}
+.dt-ebecee {
+	BORDER-BOTTOM: #ebecee 1px solid; BORDER-TOP: #ebecee 1px solid
+}
+#NoticeContent {
+	MARGIN: 0px auto; WIDTH: 620px
+}
+#NoticeContent H2 {
+	TEXT-ALIGN: center; COLOR: #004681; FONT-SIZE: 16px; PADDING-TOP: 20px
+}
+#NoticeContent H3 {
+	BORDER-BOTTOM: #cccccc 1px dashed; TEXT-ALIGN: center; LINE-HEIGHT: 24px; COLOR: #777777; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+#NoticeContent H3 SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; PADDING-TOP: 0px
+}
+#NoticeContent P {
+	TEXT-INDENT: 28px; MARGIN: 10px auto; WIDTH: 580px; FONT-SIZE: 14px
+}
+#DepartmentMap H2 {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 30px; PADDING-RIGHT: 0px; BACKGROUND: url(icon_news.jpg) no-repeat 10px 7px; COLOR: #004681; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 6px
+}
+#DepartmentMap DL {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BACKGROUND-COLOR: #f8f8f8; MARGIN: 6px auto; WIDTH: 640px; DISPLAY: block; OVERFLOW: hidden; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#DepartmentMap DT {
+	LINE-HEIGHT: 24px; MARGIN: 0px 6px; PADDING-LEFT: 16px; WIDTH: 60px; BACKGROUND: url(ico-nav.gif) no-repeat 8px 13px; FLOAT: left; OVERFLOW: hidden
+}
+#MemberCenter {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 0px 5px; WIDTH: 658px; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#Reg {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 0px 5px; WIDTH: 658px; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+.Member-table {
+	MARGIN: 10px auto
+}
+#MemberInfo H2 {
+	LINE-HEIGHT: 30px; PADDING-LEFT: 20px; BACKGROUND: url(ico_boy.gif) no-repeat 0px 7px; COLOR: #004681; FONT-SIZE: 14px
+}
+#MemberInfo .line {
+	BACKGROUND: url(member_spacer.gif) repeat-x 0px 0px; HEIGHT: 1px
+}
+#MemberInfo P {
+	LINE-HEIGHT: 30px; PADDING-LEFT: 10px; DISPLAY: block
+}
+#MemberInfo STRONG {
+	FLOAT: left; FONT-SIZE: 14px; PADDING-TOP: 10px
+}
+#MemberInfo SPAN {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: right; PADDING-TOP: 10px
+}
+#MemberInfo SPAN A {
+	COLOR: #004681
+}
+#MemberInfo SPAN A:srykzsblmised {
+	COLOR: #004681
+}
+#MemberInfo DL {
+	LINE-HEIGHT: 30px; PADDING-LEFT: 10px; WIDTH: 230px; DISPLAY: block; FLOAT: left; HEIGHT: 30px
+}
+#MemberInfo DT {
+	FLOAT: left
+}
+#MemberInfo DD {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; PADDING-TOP: 0px
+}
+#MemberInfo DD A {
+	COLOR: #004681
+}
+#MemberInfo DD A:srykzsblmised {
+	COLOR: #004681
+}
+#MemberCenter-My {
+	MARGIN: 0px auto; WIDTH: 620px
+}
+#MemberCenter-My-tit {
+	BACKGROUND: url(member_tit.gif) no-repeat 0px 0px
+}
+#MemberCenter-My-tit H2 {
+	LINE-HEIGHT: 30px; PADDING-LEFT: 20px; WIDTH: 60px; COLOR: #004681; FONT-SIZE: 14px
+}
+#MemberCenter-My SPAN {
+	PADDING-RIGHT: 20px; FLOAT: right; PADDING-TOP: 6px
+}
+#MemberCenter-My-NoInfo H3 {
+	PADDING-BOTTOM: 44px; PADDING-LEFT: 60px; WIDTH: 240px; PADDING-RIGHT: 0px; BACKGROUND: url(warning.png) no-repeat 20px 46px; FLOAT: left; FONT-SIZE: 14px; FONT-WEIGHT: normal; PADDING-TOP: 51px
+}
+#MemberCenter-My-NoInfo SPAN {
+	MARGIN: 40px 100px 0px 0px; WIDTH: 96px; HEIGHT: 28px
+}
+#MemberCenter-My-NoInfo EM {
+	PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: #004681; PADDING-TOP: 0px
+}
+#MemberCenter-My-NoInfo EM A {
+	COLOR: #004681
+}
+#MemberCenter-My-NoInfo EM A:srykzsblmised {
+	COLOR: #004681
+}
+#RegBanner {
+	MARGIN: 0px 5px; WIDTH: 660px; DISPLAY: inline; BACKGROUND: url(regbanner.jpg) no-repeat 0px 0px; FLOAT: left; HEIGHT: 140px
+}
+#Reg {
+	BACKGROUND-COLOR: #f2f3f2; MARGIN-TOP: 10px; FLOAT: left
+}
+#Reg H2 {
+	BORDER-BOTTOM: #95c7ea 1px solid; PADDING-BOTTOM: 20px; MARGIN: 0px auto; PADDING-LEFT: 50px; WIDTH: 560px; PADDING-RIGHT: 0px; BACKGROUND: url(ico-reg.gif) no-repeat 4px 8px; COLOR: #004681; FONT-SIZE: 14px; PADDING-TOP: 18px
+}
+#Reg P {
+	MARGIN: 10px auto; WIDTH: 560px
+}
+#Reg EM {
+	PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+#Reg EM.color2 {
+	COLOR: #ff0000
+}
+#Reg SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 0px
+}
+#Reg SPAN A {
+	COLOR: #004681
+}
+#Reg SPAN A:srykzsblmised {
+	COLOR: #004681
+}
+#Reg .reg-btn {
+	PADDING-BOTTOM: 82px; PADDING-LEFT: 170px; PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-TOP: 40px
+}
+.emReg3 {
+	COLOR: #006400
+}
+.emReg2 {
+	COLOR: #ff0000
+}
+.emReg4 {
+	COLOR: #ff0000
+}
+#login {
+	BORDER-BOTTOM: #95c7ea 1px solid; BORDER-LEFT: #95c7ea 1px solid; MARGIN: 20px 0px 30px 30px; WIDTH: 600px; DISPLAY: inline; FLOAT: left; HEIGHT: 365px; BORDER-TOP: #95c7ea 1px solid; BORDER-RIGHT: #95c7ea 1px solid
+}
+#Contact {
+	MARGIN: 20px 0px 30px 30px; WIDTH: 600px; DISPLAY: inline; FLOAT: left; HEIGHT: 365px
+}
+#login-tit {
+	LINE-HEIGHT: 40px; BACKGROUND-COLOR: #e2f5f5
+}
+#login-tit H2 {
+	PADDING-LEFT: 50px; BACKGROUND: url(ico-login.gif) no-repeat 10px 2px; FONT-SIZE: 20px
+}
+#login .login-layout {
+	PADDING-BOTTOM: 20px; BACKGROUND-COLOR: #f9f9fb; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+#login P {
+	LINE-HEIGHT: 30px; MARGIN: 0px auto; WIDTH: 240px; DISPLAY: block; FONT-SIZE: 14px; FONT-WEIGHT: bold; _padding-top: 2px
+}
+#login P .padding30 {
+	PADDING-TOP: 30px
+}
+#login .login-forget {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+#login .login-forget A {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+#login .login-spacer {
+	BACKGROUND: url(login-spacer.gif) repeat-x 0px 0px; HEIGHT: 3px
+}
+#login .login-reg H3 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; COLOR: #004681; FONT-SIZE: 14px; PADDING-TOP: 10px
+}
+#free-service {
+	BORDER-BOTTOM: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; MARGIN: 20px 20px 30px; WIDTH: 278px; DISPLAY: inline; BACKGROUND: url(titbg2.gif) repeat-x 0px top; FLOAT: left; HEIGHT: 365px; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid
+}
+#free-service H2 {
+	LINE-HEIGHT: 30px; PADDING-LEFT: 20px; BACKGROUND: url(icon_6.gif) no-repeat 5px 6px; COLOR: #004681; FONT-SIZE: 14px
+}
+#free-service UL {
+	PADDING-BOTTOM: 30px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; BACKGROUND: url(ico-free.gif) no-repeat 50px 42px; PADDING-TOP: 30px
+}
+#free-service LI {
+	LINE-HEIGHT: 64px; PADDING-LEFT: 70px; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+#free-service LI A {
+	COLOR: #004681; TEXT-DECORATION: none
+}
+#free-service LI A:srykzsblmised {
+	COLOR: #004681; TEXT-DECORATION: none
+}
+#ContactK {
+	MARGIN: 0px 5px; WIDTH: 658px; DISPLAY: inline; FLOAT: left; OVERFLOW: hidden
+}
+#Contact {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND: url(contactbg.jpg) no-repeat right bottom; MARGIN-LEFT: 50px
+}
+#ContactK H2 {
+	BORDER-BOTTOM: #95c7ea 1px solid; PADDING-BOTTOM: 20px; MARGIN: 0px auto; PADDING-LEFT: 50px; WIDTH: 560px; PADDING-RIGHT: 0px; BACKGROUND: url(ico-reg.gif) no-repeat 4px 8px; COLOR: #004681; FONT-SIZE: 14px; PADDING-TOP: 18px
+}
+#Contact {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND: url(contactbg.jpg) no-repeat right bottom; MARGIN-LEFT: 50px
+}
+#Contact H3 {
+	PADDING-BOTTOM: 16px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-SIZE: 14px; FONT-WEIGHT: normal; PADDING-TOP: 16px
+}
+#Contact P {
+	PADDING-LEFT: 70px
+}
+#content-right-Successful {
+	HEIGHT: 281px
+}
+#content-Link {
+	HEIGHT: 101px
+}
+#content-Navigation-conetnt-Surgery UL SPAN {
+	WIDTH: 54px; WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+#content-right-notice {
+	HEIGHT: 190px; OVERFLOW: hidden
+}
+.sorrywrapper1 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 300px; BACKGROUND: url(errbg.jpg) no-repeat; HEIGHT: 270px; PADDING-TOP: 120px
+}
+#rbbox {
+	POSITION: absolute; WIDTH: 258px; BOTTOM: 0px; BACKGROUND: url(pop_bg_blue.png) no-repeat 0px 0px; HEIGHT: 0px; OVERFLOW: hidden; RIGHT: 0px
+}
+#rbbox .rbbox-content {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 70px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 70px; _margin-left: 60px
+}
+#rbbox .rbbox-content SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+.button {
+	MARGIN: 8px 20px 0px 0px; WIDTH: 16px; DISPLAY: block; BACKGROUND: url(close_blue.png) no-repeat; FLOAT: right; HEIGHT: 16px; CURSOR: pointer
+}
+.linklist {
+	PADDING-BOTTOM: 10px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.linklist UL {
+	MARGIN: 0px auto; WIDTH: 650px
+}
+.linklist UL LI {
+	BORDER-BOTTOM: #cccccc 1px dashed; TEXT-ALIGN: center; LINE-HEIGHT: 30px; MARGIN: 0px 5px; WIDTH: 150px; DISPLAY: inline; FLOAT: left
+}
+.linklist UL LI A {
+	WIDTH: 150px; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #333333; OVERFLOW: hidden; TEXT-DECORATION: none
+}
+.linklist UL LI A:srykzsblmised {
+	WIDTH: 150px; DISPLAY: block; WHITE-SPACE: nowrap; COLOR: #333333; OVERFLOW: hidden; TEXT-DECORATION: none
+}
+.linklist UL LI A:hover {
+	BACKGROUND-COLOR: #f4f4f4; COLOR: #004681; FONT-WEIGHT: bold
+}
+#lblIntroduce A {
+	COLOR: red
+}
+#lblIntroduce A:srykzsblmised {
+	COLOR: red
+}
+#lblIntorduceXX A {
+	COLOR: red
+}
+#lblIntorduceXX A:srykzsblmised {
+	COLOR: red
+}
+.regsuc {
+	BORDER-BOTTOM: #cccccc 1px dashed; PADDING-BOTTOM: 20px; MARGIN: 0px auto 20px; WIDTH: 80%
+}
+.regsuc STRONG {
+	LINE-HEIGHT: 64px; PADDING-LEFT: 110px; DISPLAY: block; BACKGROUND: url(Spell.gif) no-repeat 30px 0px; COLOR: #ff0000; FONT-SIZE: 14px
+}
+.mouseoverstyle {
+	LINE-HEIGHT: 180%; BACKGROUND-COLOR: aliceblue; CURSOR: hand
+}
+.mouseoutstyle {
+	LINE-HEIGHT: 180%; BACKGROUND-COLOR: white; CURSOR: hand
+}
+.plbox {
+	BACKGROUND-COLOR: #fff; WIDTH: 607px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 450px
+}
+.plbox H3 {
+	BORDER-BOTTOM: #96b9d7 1px solid; LINE-HEIGHT: 36px; MARGIN: 0px; PADDING-LEFT: 30px; BACKGROUND: url(pltitbg.gif) repeat-x 0px 0px; HEIGHT: 36px; COLOR: #0175b7; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.plbox .close_layer {
+	LINE-HEIGHT: 36px; MARGIN-TOP: 8px; DISPLAY: block; FLOAT: right; CURSOR: pointer; MARGIN-RIGHT: 20px
+}
+.plbox_time UL {
+	MARGIN: 20px; HEIGHT: 112px; OVERFLOW: auto; _margin: 20px 10px
+}
+.plbox_time UL LI {
+	MARGIN: 5px 20px; WIDTH: 68px; DISPLAY: block; FLOAT: left; COLOR: #2a8ac0; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.plbox_btn {
+	TEXT-ALIGN: center; BACKGROUND: url(plbtnbg.gif) repeat-x 0px 0px; HEIGHT: 68px
+}
+.plbox_btn .btn_mar IMG {
+	MARGIN: 18px
+}
+.plbox_intro OL {
+	PADDING-BOTTOM: 9px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; OVERFLOW: hidden; PADDING-TOP: 9px
+}
+.plbox_intro {
+	BACKGROUND-COLOR: #2a8ac0; MARGIN: 8px auto; WIDTH: 555px
+}
+.plbox_intro OL H4 {
+	LINE-HEIGHT: 24px; COLOR: #ff3300; FONT-SIZE: 14px
+}
+.plbox_intro OL LI {
+	LINE-HEIGHT: 20px; COLOR: #000000; FONT-SIZE: 14px
+}
+A:focus {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; -moz-outline: none
+}
+#div1 {
+	Z-INDEX: 9; POSITION: absolute; FILTER: alpha(opacity=70); BACKGROUND-COLOR: #a6a6a6; VISIBILITY: hidden
+}
+#div2 {
+	Z-INDEX: 10; BORDER-BOTTOM: #999999 7px solid; POSITION: absolute; TEXT-ALIGN: left; BORDER-LEFT: #999999 7px solid; BACKGROUND-COLOR: #cccccc; WIDTH: 607px; HEIGHT: auto; VISIBILITY: hidden; BORDER-TOP: #999999 7px solid; BORDER-RIGHT: #999999 7px solid
+}
+.Disease-professor-srykzsblmiss {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; CLEAR: both; OVERFLOW: hidden; PADDING-TOP: 8px
+}
+.modify_passwd {
+	MARGIN: 0px auto; WIDTH: 900px; BACKGROUND: url(modify.jpg) #ffffff no-repeat 50px 10px; OVERFLOW: hidden
+}
+.modify_passwd_top {
+	MARGIN: 80px auto 0px; WIDTH: 400px; BACKGROUND: url(forgot_passwd_top.gif) no-repeat 0px 0px; HEIGHT: 15px
+}
+.modify_passwd_bottom {
+	TEXT-ALIGN: center; MARGIN: 0px auto 30px; WIDTH: 400px; BACKGROUND: url(forgot_passwd_bottom.gif) no-repeat 0px 0px; HEIGHT: 15px
+}
+.modify_passwd_content {
+	MARGIN: 0px auto; WIDTH: 400px; BACKGROUND: url(forgot_passwd_content.gif) repeat-y 0px 0px
+}
+#login .modify_passwd_content P {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.modify_passwd_content INPUT {
+	WIDTH: 120px
+}
+.modify_passwd_content .subbtn {
+	MARGIN-TOP: 20px; WIDTH: 60px; MARGIN-LEFT: 150px
+}
+.modify_passwd_content STRONG {
+	LINE-HEIGHT: 64px; PADDING-LEFT: 110px; DISPLAY: block; BACKGROUND: url(Spell.gif) no-repeat 30px 0px; COLOR: #ff0000; FONT-SIZE: 14px
+}
+.forgot_passwd {
+	MARGIN: 0px auto; WIDTH: 600px; BACKGROUND: url(modify.jpg) #ffffff no-repeat 50px 10px; OVERFLOW: hidden
+}
+.forgot_passwd_top {
+	MARGIN: 80px auto 0px; WIDTH: 400px; BACKGROUND: url(forgot_passwd_top.gif) no-repeat 0px 0px; HEIGHT: 15px
+}
+.forgot_passwd_bottom {
+	TEXT-ALIGN: center; MARGIN: 0px auto 30px; WIDTH: 400px; BACKGROUND: url(forgot_passwd_bottom.gif) no-repeat 0px 0px; HEIGHT: 15px
+}
+.forgot_passwd_content {
+	MARGIN: 0px auto; WIDTH: 400px; BACKGROUND: url(forgot_passwd_content.gif) repeat-y 0px 0px
+}
+.forgot_passwd_content_error {
+	MARGIN: 0px auto; WIDTH: 400px; BACKGROUND: url(forgot_passwd_content.gif) repeat-y 0px 0px
+}
+#login .forgot_passwd_content P {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.forgot_passwd_content INPUT {
+	WIDTH: 120px
+}
+.forgot_passwd_content .subbtn {
+	MARGIN-TOP: 20px; WIDTH: 60px; MARGIN-LEFT: 150px
+}
+.forgot_passwd_content STRONG {
+	LINE-HEIGHT: 64px; PADDING-LEFT: 110px; DISPLAY: block; BACKGROUND: url(Spell.gif) no-repeat 30px 0px; COLOR: #ff0000; FONT-SIZE: 14px
+}
+.forgot_passwd_content_error STRONG {
+	LINE-HEIGHT: 64px; PADDING-LEFT: 110px; WIDTH: 300px; DISPLAY: block; BACKGROUND: url(Wrong.gif) no-repeat 30px 0px; COLOR: #ff0000; FONT-SIZE: 14px
+}
+.Red {
+	COLOR: #ff0000
+}
+.Gray {
+	
+}
+.Green {
+	COLOR: #006400
+}

@@ -1,0 +1,78 @@
+#wrap-doc {
+	POSITION: relative
+}
+#ticker {
+	POSITION: relative; BACKGROUND: url(../Images/fscrollbg.gif) no-repeat center bottom; HEIGHT: 250px; OVERFLOW: hidden
+}
+.tickerviewable {
+	POSITION: relative; HEIGHT: 224px; OVERFLOW: hidden
+}
+.tickerviewable .tickerscroll {
+	POSITION: absolute; WIDTH: 5000px
+}
+#ynscroll DIV DIV.feature {
+	FLOAT: left !important
+}
+.tickerControls {
+	Z-INDEX: 2; POSITION: absolute; WIDTH: 200px; TOP: 218px; LEFT: 230px
+}
+.fscleft {
+	MARGIN: 0px 0px 5px; FLOAT: left
+}
+.fscleft A {
+	WIDTH: 29px; DISPLAY: block; HEIGHT: 24px
+}
+.fscleft A.buttonOn {
+	BACKGROUND: url(../Images/fscleft.gif) no-repeat 0px 0px
+}
+.fscleft A:hover {
+	BACKGROUND: url(../images/fsclefton.gif) no-repeat 0px 0px; CURSOR: pointer
+}
+.fscleft A STRONG {
+	DISPLAY: none
+}
+.fscright {
+	MARGIN: 0px 0px 5px; FLOAT: right
+}
+.fscright A {
+	WIDTH: 29px; DISPLAY: block; HEIGHT: 24px
+}
+.fscright A.buttonOn {
+	BACKGROUND: url(../images/fscright.gif) no-repeat 0px 0px
+}
+.fscright A:hover {
+	BACKGROUND: url(../Images/fscrighton.gif) no-repeat 0px 0px; CURSOR: pointer
+}
+.fscright A STRONG {
+	DISPLAY: none
+}
+.fscleft A.buttonOff {
+	BACKGROUND: url(../images/fscleftoff.gif) no-repeat 0px 0px; CURSOR: default
+}
+.fscleft A.buttonOff:hover {
+	BACKGROUND: url(../images/fscleftoff.gif) no-repeat 0px 0px; CURSOR: default
+}
+.fscright A.buttonOff {
+	BACKGROUND: url(../images/fscrightoff.gif) no-repeat 0px 0px; CURSOR: default
+}
+.fscright A.buttonOff:hover {
+	BACKGROUND: url(../images/fscrightoff.gif) no-repeat 0px 0px; CURSOR: default
+}
+.dots {
+	TEXT-ALIGN: center; DISPLAY: block; HEIGHT: 5px
+}
+.dots A {
+	PADDING-BOTTOM: 0px; MARGIN: 0px 1px; PADDING-LEFT: 2px; WIDTH: 8px; PADDING-RIGHT: 2px; HEIGHT: 5px; PADDING-TOP: 0px
+}
+.dots A STRONG {
+	DISPLAY: none
+}
+.dots A.on {
+	BACKGROUND: url(../images/dot2.gif) no-repeat 0px 0px
+}
+.dots A.off {
+	BACKGROUND: url(../images/dot1.gif) no-repeat 0px 0px
+}
+.dots A:hover {
+	TEXT-DECORATION: none
+}

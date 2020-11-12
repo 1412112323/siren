@@ -1,0 +1,27 @@
+BODY {
+	WIDTH: 800px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+.menu A {
+	LINE-HEIGHT: 30px; DISPLAY: block; COLOR: white; TEXT-DECORATION: none
+}
+.menu A:hover {
+	TEXT-DECORATION: underline
+}
+#btn_login {
+	BACKGROUND-IMAGE: url(../images/login_bottom.png); BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND-COLOR: transparent; WIDTH: 188px; HEIGHT: 32px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+#d_UserInfo UL {
+	PADDING-BOTTOM: 0px; LIST-STYLE-TYPE: none; MARGIN: 20px 0px 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; LIST-STYLE-IMAGE: none; PADDING-TOP: 0px
+}
+#d_UserInfo UL LI {
+	LINE-HEIGHT: 30px; LIST-STYLE-TYPE: none; MARGIN-TOP: 5px; DISPLAY: block; COLOR: #000000; FONT-SIZE: 15px; LIST-STYLE-IMAGE: none
+}
+#d_UserInfo UL LI A {
+	TEXT-DECORATION: none
+}
+.la1 {
+	COLOR: #28507b; TEXT-DECORATION: none
+}
+.la1:hover {
+	TEXT-DECORATION: underline
+}
